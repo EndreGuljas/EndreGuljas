@@ -1,12 +1,12 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Endre Guljas
 
 **Data Analyst building end-to-end analytics solutions that turn messy data into actionable business insights.**
 
-[PLACEHOLDER: Add 2-3 sentence bio about your background, what you're passionate about, and what you're currently focused on]
+I'm an Aerospace Engineering graduate from Toronto Metropolitan University with a passion for transforming complex data into strategic business decisions. With hands-on experience at tech startups supporting ML model development and data pipelines, I specialize in SQL, Python, and building analytics frameworks that bridge technical execution with stakeholder impact. Currently seeking data analyst opportunities where I can apply my analytical mindset to solve real business problems.
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=googledocs&logoColor=white)](PLACEHOLDER-LINK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](PLACEHOLDER-LINK)
@@ -14,31 +14,30 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Analytics**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-**Data Engineering & Orchestration**  
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-
-**Cloud & Data Platforms**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+**Data Platforms & Databases**  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
 
 **Visualization & BI Tools**  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+
+**Tools & Libraries**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
 | Project | Tech Stack | Impact |
 |---------|-----------|--------|
@@ -48,23 +47,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=default&hide_border=true)
-
----
-
-## 🌱 Currently Exploring
-
-- Advanced cloud data architectures (Databricks, Snowflake optimization)
-- Machine learning for predictive analytics
-- Real-time streaming data pipelines
-
-**Open to data analyst and analytics engineer opportunities.**
-
----
-
-## 💬 Let's Connect
+## Let's Connect
 
 I'm always interested in connecting with other data professionals and discussing analytics, data engineering, or interesting projects. Feel free to reach out via [LinkedIn](PLACEHOLDER-LINK) or [email](mailto:PLACEHOLDER-EMAIL)!
