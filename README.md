@@ -47,7 +47,7 @@ I'm an Aerospace Engineering graduate with a passion for transforming complex da
 | Project | Tech Stack | Impact |
 |---------|-----------|--------|
 | **[SQL Data Warehouse & Analytics Platform](https://github.com/EndreGuljas/SQL-Data-Warehouse)** | SQL Server, T-SQL, Star Schema, ETL Pipelines | Built medallion architecture warehouse integrating fragmented CRM/ERP data, uncovering 60%+ revenue concentration in 3 regions and enabling data-driven decision making across the organization. |
-| **[E-commerce Performance Analysis](https://github.com/EndreGuljas/E-commerce-Performance-Report)** | Python, Pandas, SQL, Statistical Analysis | Analyzed 108K+ transactions to diagnose 70-80% Q4 revenue decline, identifying that loyalty program members sustained 18% AOV growth while revealing critical regional concentration risks. |
+| **[E-commerce Performance Analysis](https://github.com/EndreGuljas/E-commerce-Performance-Report)** | Excel, SQL, Statistical Analysis | Analyzed 108K+ transactions to diagnose 70-80% Q4 revenue decline, identifying that loyalty program members sustained 18% AOV growth while revealing critical regional concentration risks. |
 | **[Financial Crisis Stock Analysis](https://github.com/EndreGuljas/Python_Bank_Stock_Analysis)** | Python, Pandas, Time-Series Analysis, Visualization | Conducted volatility and correlation analysis on 6 major banks across the 2008 financial crisis using 10 years of daily stock data to reveal institutional recovery patterns and systemic risk indicators. |
 
 ---
