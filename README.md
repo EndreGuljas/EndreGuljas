@@ -2,7 +2,7 @@
 
 **Data Analyst building end-to-end analytics solutions that turn messy data into actionable business insights.**
 
-I'm an Aerospace Engineering graduate from Toronto Metropolitan University with a passion for transforming complex data into strategic business decisions. With hands-on experience at tech startups supporting ML model development and data pipelines, I specialize in SQL, Python, and building analytics frameworks that bridge technical execution with stakeholder impact. Currently seeking data analyst opportunities where I can apply my analytical mindset to solve real business problems.
+I'm an Aerospace Engineering graduate with a passion for transforming complex data into business decisions. With hands-on experience at tech startups supporting ML model development and data pipelines, I specialize in SQL, Python, and building analytics frameworks that bridge technical execution with stakeholder impact. Currently seeking data analyst opportunities where I can apply my analytical mindset to solve real business problems.
 
 ---
 
@@ -15,7 +15,6 @@ I'm an Aerospace Engineering graduate from Toronto Metropolitan University with 
 ---
 
 ## Tech Stack
-
 **Languages & Analytics**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -30,10 +29,16 @@ I'm an Aerospace Engineering graduate from Toronto Metropolitan University with 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
+**Data Engineering & Analytics**  
+![ETL](https://img.shields.io/badge/ETL/Data_Warehousing-FF6B6B?style=flat&logo=databricks&logoColor=white)
+![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-4CAF50?style=flat&logo=analytics&logoColor=white)
+
 **Tools & Libraries**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
 ---
 
