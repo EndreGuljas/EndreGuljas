@@ -54,4 +54,4 @@ I'm an Aerospace Engineering graduate with a passion for transforming complex da
 
 ## Let's Connect
 
-I'm always interested in connecting with other data professionals and discussing analytics, data engineering, or interesting projects. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/endre-guljas-1367a2221/?isSelfProfile=true) or [email](mailto:endre.guljas@gmail.com)!
+I'm always interested in connecting with other data professionals and discussing analytics, data engineering, or interesting projects. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/endre-guljas-1367a2221/?isSelfProfile=true) or [email](mailto:endre.guljas@gmail.com).
