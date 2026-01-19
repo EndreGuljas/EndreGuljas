@@ -2,7 +2,7 @@
 
 **Data Analyst building end-to-end analytics solutions that turn messy data into actionable business insights.**
 
-I'm an Aerospace Engineering graduate with a passion for transforming complex data into business decisions. With hands-on experience at tech startups supporting ML model development and data pipelines, I specialize in SQL, Python, and building analytics frameworks that bridge technical execution with stakeholder impact. Currently seeking data analyst opportunities where I can apply my analytical mindset to solve real business problems.
+I'm an Aerospace Engineering graduate with a passion for transforming complex data into business decisions. With hands-on experience at tech startups supporting ML model development and data pipelines, I specialize in SQL, Python, and building analytics frameworks that bridge technical execution with stakeholder impact. I'm currently looking for data analyst opportunities where I can apply my analytical mindset to solve real business problems.
 
 ---
 
