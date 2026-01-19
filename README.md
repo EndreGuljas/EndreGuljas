@@ -8,9 +8,9 @@ I'm an Aerospace Engineering graduate with a passion for transforming complex da
 
 ## Connect With Me
 
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=googledocs&logoColor=white)](PLACEHOLDER-LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](PLACEHOLDER-LINK)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:PLACEHOLDER-EMAIL)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=googledocs&logoColor=white)](file:///C:/Users/endre/Downloads/EndreGuljas%20Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/endre-guljas-1367a2221/?isSelfProfile=true)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:endre.guljas@gmail.com)
 
 ---
 
@@ -54,4 +54,4 @@ I'm an Aerospace Engineering graduate with a passion for transforming complex da
 
 ## Let's Connect
 
-I'm always interested in connecting with other data professionals and discussing analytics, data engineering, or interesting projects. Feel free to reach out via [LinkedIn](PLACEHOLDER-LINK) or [email](mailto:PLACEHOLDER-EMAIL)!
+I'm always interested in connecting with other data professionals and discussing analytics, data engineering, or interesting projects. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/endre-guljas-1367a2221/?isSelfProfile=true) or [email](mailto:endre.guljas@gmail.com)!
